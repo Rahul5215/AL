@@ -1,0 +1,24 @@
+body{
+    background-color:#EAF6F6;
+}
+
+h1{
+    color:black;
+}
+
+.thriller{
+    height:60px; 
+    width:200px;
+}
+.form{
+    background-color: #EAF6F6;
+}
+.index{
+    margin: 0;
+}
+.index1{
+    background-color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
+}
